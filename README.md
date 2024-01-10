@@ -6,8 +6,8 @@
 - 배포링크
   https://taskify-sand-two.vercel.app/
 - 데모계정
-  id: guest@email.com
-  pw: guest112
+  <p>id: guest@email.com</p>
+  <p>pw: guest112</p>
   
 ## Team
 <table width="600px">
