@@ -118,7 +118,8 @@ function TodoForm({ type = 'create', columnId }: Props) {
   const [changed, setChanged] = useAtom(changedAtom);
 
   const handleCreateTodo = async () => {
-    values.imageUrl = imageUrl.imageUrl;
+    values.imageUrl = imageUrl.imageUrl ? imageUrl.imageUrl : undefined;
+
     try {
       const { data } = await postData({
         data: { ...values },
