@@ -3,8 +3,12 @@
 - 개발 기간: 12/18 ~ 1/5
 
 ## Deploy
-https://taskify-project-sigma.vercel.app/
-
+- 배포링크
+  https://taskify-sand-two.vercel.app/
+- 데모계정
+  <p>id: guest@email.com</p>
+  <p>pw: guest112</p>
+  
 ## Team
 <table width="600px">
     <th style="text-align:center">
